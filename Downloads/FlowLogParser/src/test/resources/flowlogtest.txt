@@ -1,0 +1,5 @@
+25,udp
+23,tcp
+25,udp
+25,udp
+443,udp
