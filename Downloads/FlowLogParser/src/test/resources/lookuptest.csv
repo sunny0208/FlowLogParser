@@ -1,0 +1,6 @@
+dstport,protocol,tag
+23,tcp,sv_p3
+23,udp,sv_p1
+25,udp,sv_p3
+443,udp,sv_p2
+23,tcp,sv_p1
